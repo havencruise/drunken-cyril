@@ -1,0 +1,10 @@
+.answer-box{
+}
+
+.answer-box:hover{
+    border-color: #e5e5e5;
+    -webkit-box-shadow: 0 4px 16px #e5e5e5;
+    -moz-box-shadow: 0 4px 16px #e5e5e5;
+    -ms-box-shadow: 0 4px 16px #e5e5e5;
+    box-shadow: 0 4px 16px #e5e5e5;
+}
